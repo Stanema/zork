@@ -1,0 +1,105 @@
+22:57:04 INFO  [main] game.GameImpl GameImpl.java94 - nasaď
+22:57:04 INFO  [main] game.GameImpl GameImpl.java129 - Vybavil jsi si předmět rezavý meč který má poškození 3:6
+22:57:07 INFO  [main] game.GameImpl GameImpl.java94 - jdi les
+22:57:07 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do les
+Hluboký a temný les, v něhož nitru se tyčí vysoká hora 
+ Východy: jeskyně, pole, 
+Před tebou stojí: zuřivý vlk
+22:57:10 INFO  [main] game.GameImpl GameImpl.java94 - útok
+22:57:10 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 3 poškození a zbývá mu ještě 2 životů
+zuřivý vlk tě zasáhl za 3 poškození.
+Zbývá ti: 97 životů
+22:57:18 INFO  [main] game.GameImpl GameImpl.java94 - útok
+22:57:18 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 5 poškození, nepřítel je mrtvý
+22:57:25 INFO  [main] game.GameImpl GameImpl.java94 - jdi jeskyně
+22:57:25 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do jeskyně
+Tajuplná jeskyně ze které svítí hromada červených očíček
+ Východy: důl, les, 
+Před tebou stojí:  vypasený netopýr
+22:57:29 INFO  [main] game.GameImpl GameImpl.java94 - útok
+22:57:29 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 5 poškození a zbývá mu ještě 1 životů
+ vypasený netopýr tě zasáhl za 1 poškození.
+Zbývá ti: 96 životů
+22:57:33 INFO  [main] game.GameImpl GameImpl.java94 - útok
+22:57:33 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 3 poškození, nepřítel je mrtvý
+22:57:37 INFO  [main] game.GameImpl GameImpl.java94 - jdi důl
+22:57:37 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do důl
+Ponurý důl který se větvý do mnoha malých chodeb a schodišť
+ Východy: jeskyně, důlní chodba, schody nahoru, schody dolů, 
+Před tebou stojí:  kostlivý horník
+Na zemi se válí: krumpáč
+22:57:43 INFO  [main] game.GameImpl GameImpl.java94 - nasaď
+22:57:43 INFO  [main] game.GameImpl GameImpl.java129 - Vybavil jsi si předmět krumpáč který má poškození 5:10
+ kostlivý horník tě zasáhl za 4 poškození.
+Zbývá ti: 92 životů
+22:57:49 INFO  [main] game.GameImpl GameImpl.java94 - útok
+22:57:49 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 6 poškození a zbývá mu ještě 4 životů
+ kostlivý horník tě zasáhl za 5 poškození.
+Zbývá ti: 87 životů
+22:57:54 INFO  [main] game.GameImpl GameImpl.java94 - útok
+22:57:54 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 10 poškození, nepřítel je mrtvý
+22:58:07 INFO  [main] game.GameImpl GameImpl.java94 - jdi důlní chodba
+22:58:07 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do důlní chodba
+Chodba s kolejemi a vrzavýmy vozíky, která je na konci zasypaná
+ Východy: důl, 
+Před tebou stojí:  kostlivý horník
+22:58:11 INFO  [main] game.GameImpl GameImpl.java94 - útok
+22:58:11 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 10 poškození, nepřítel je mrtvý a v jeho útrobách jsi našel: elfký luk
+22:58:43 INFO  [main] game.GameImpl GameImpl.java94 - nasaď
+22:58:43 INFO  [main] game.GameImpl GameImpl.java129 - Vybavil jsi si předmět elfký luk který má poškození 10:20
+22:58:48 INFO  [main] game.GameImpl GameImpl.java94 - jdi důl
+22:58:48 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do důl
+Ponurý důl který se větvý do mnoha malých chodeb a schodišť
+ Východy: jeskyně, důlní chodba, schody nahoru, schody dolů, 
+Na zemi se válí: rezavý meč
+22:58:55 INFO  [main] game.GameImpl GameImpl.java94 - jdi schody dolů
+22:58:55 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do schody dolů
+Točité shody vedoucí do temnoty
+ Východy: důl, důlní místnost, 
+22:59:04 INFO  [main] game.GameImpl GameImpl.java94 - jdi důlní místnost
+22:59:04 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do důlní místnost
+Místnost ve které je hrozná tma
+ Východy: schody dolů, 
+Před tebou stojí:  zombie horník
+22:59:10 INFO  [main] game.GameImpl GameImpl.java94 - útok
+22:59:10 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 17 poškození, nepřítel je mrtvý a v jeho útrobách jsi našel: Klíč
+22:59:16 INFO  [main] game.GameImpl GameImpl.java94 - seber
+22:59:16 INFO  [main] game.GameImpl GameImpl.java129 - Sebral jsi předmět Klíč
+22:59:22 INFO  [main] game.GameImpl GameImpl.java94 - jdi schody dolů
+22:59:22 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do schody dolů
+Točité shody vedoucí do temnoty
+ Východy: důl, důlní místnost, 
+22:59:25 INFO  [main] game.GameImpl GameImpl.java94 - jdi důl
+22:59:25 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do důl
+Ponurý důl který se větvý do mnoha malých chodeb a schodišť
+ Východy: jeskyně, důlní chodba, schody nahoru, schody dolů, 
+Na zemi se válí: rezavý meč
+22:59:36 INFO  [main] game.GameImpl GameImpl.java94 - jdi schody nahoru
+22:59:36 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do schody nahoru
+Točité shody vedoucí do temnoty, ale nahoru
+ Východy: důl, vrcholek hory, 
+22:59:41 INFO  [main] game.GameImpl GameImpl.java94 - jdi vrcholek hory
+22:59:41 INFO  [main] game.GameImpl GameImpl.java129 - Narazil jsi na zamčené dveře, potřebuješ najít klíč
+22:59:57 INFO  [main] game.GameImpl GameImpl.java94 - polož klíč
+22:59:57 INFO  [main] game.GameImpl GameImpl.java129 - Nemáš daný předmět
+23:00:05 INFO  [main] game.GameImpl GameImpl.java94 - polož Klíč
+23:00:05 INFO  [main] game.GameImpl GameImpl.java129 - Položil jsi předmět Klíč
+23:00:14 INFO  [main] game.GameImpl GameImpl.java94 - jdi vrcholek hory
+23:00:14 INFO  [main] game.GameImpl GameImpl.java129 - Vydáváš se do vrcholek hory
+Vylezl jsi z temné chodby až na úplném vrcholku hory
+ Východy: schody dolů, 
+Před tebou stojí: majestátní gryf
+23:00:19 INFO  [main] game.GameImpl GameImpl.java94 - útok
+23:00:19 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 14 poškození a zbývá mu ještě 36 životů
+majestátní gryf tě zasáhl za 7 poškození.
+Zbývá ti: 80 životů
+23:00:23 INFO  [main] game.GameImpl GameImpl.java94 - útok
+23:00:23 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 12 poškození a zbývá mu ještě 24 životů
+majestátní gryf tě zasáhl za 9 poškození.
+Zbývá ti: 71 životů
+23:00:28 INFO  [main] game.GameImpl GameImpl.java94 - útok
+23:00:28 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 11 poškození a zbývá mu ještě 13 životů
+majestátní gryf tě zasáhl za 11 poškození.
+Zbývá ti: 60 životů
+23:00:33 INFO  [main] game.GameImpl GameImpl.java94 - útok
+23:00:33 INFO  [main] game.GameImpl GameImpl.java129 - Zasáhl jsi nepřítele za 13 poškození, nepřítel je mrtvý a v jeho útrobách jsi našel: vejce

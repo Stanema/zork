@@ -1,0 +1,14 @@
+<Configuration>
+    <Appenders>
+        <File name="Log" fileName="logs/prikazy.log" append="false">
+            <PatternLayout>
+                <Pattern>%d{HH:mm:ss} %-5p [%t] %C{2} %F%L - %m%n</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Log" level="info"/>
+        </Root>
+    </Loggers>
+</Configuration>
